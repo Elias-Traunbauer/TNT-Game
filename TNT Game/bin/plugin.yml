@@ -1,0 +1,8 @@
+name: TNT-Game
+main: com.aktenkoffer.main.Main
+version: '0.0.0'
+author: Aktenkoffer
+commands:
+   start:
+     description: Start the round!
+     usage: /start
